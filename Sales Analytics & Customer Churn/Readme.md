@@ -3,7 +3,7 @@
 This project is a Sales and Customer Churn Analytics Dashboard built using `Excel`. 
 It is designed to explore key business metrics related to customer behavior, churn patterns, and service usage for a telecommunications or subscription-based service provider.
 
-![Dashboard Preview](Sales Analytics & Customer Churn Dashboard.png)
+![Dashboard Preview]("Sales Analytics & Customer Churn Dashboard.png")
 
 ## File Structure
 
